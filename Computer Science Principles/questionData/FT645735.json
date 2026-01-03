@@ -1,1 +1,0 @@
-[{"id":"FT645735","type":"mcq","stimulusHtml":"In public key cryptography, the sender uses the recipient’s public key to encrypt a message. Which of the following is needed to decrypt the message?","choicesHtml":["The sender’s public key","The sender’s private key","The recipient’s public key","The recipient’s private key"],"answer":"3"}]
